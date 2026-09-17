@@ -1,8 +1,20 @@
 # Hi there, I'm Bate12! 👋
 
-I am a 3rd-year Software Engineering student and a freelance developer (OSVČ) based in the Czech Republic. I enjoy building functional, clean, and efficient software. 
+I am a 3rd-year Software Engineering student and a freelance developer (OSVČ) based in the Czech Republic. I enjoy building functional, clean, and efficient software.
 
-Currently, **I have free capacity over the summer** and I'm looking for remote freelance projects, part-time gigs, or agency overflow work.
+Currently and I'm looking for remote freelance projects, part-time gigs, or agency overflow work.
+
+### 📁 Projects
+* **Raspberry PI 3B+** game console with controller prototype, with a **Python / Pygame game** as my final project in highschool
+* **Photo viewer** using Pygame with fascinating visuals creating own **GUI** in Pygame, see here > [Progress 3 - limit testing pre-v.0.1](https://youtu.be/AA_baFMNrfQ)
+* **School projects** from highshool and collage -
+*   C# .NET app
+*   React bank app
+*   Linux from Scratch (up to chapter 8)
+*   and more...
+  
+
+![Logo](https://github.com/Bate12/Grid-system-pygame/blob/main/icon.png?raw=true)
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, Javascript, React
