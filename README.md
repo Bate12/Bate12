@@ -1,4 +1,5 @@
 # Hi there, I'm Bate12! 👋
+![Logo](https://github.com/Bate12/Grid-system-pygame/blob/main/icon.png?raw=true)
 
 I am a 3rd-year Software Engineering student and a freelance developer (OSVČ) based in the Czech Republic. I enjoy building functional, clean, and efficient software.
 
@@ -13,8 +14,8 @@ Currently and I'm looking for remote freelance projects, part-time gigs, or agen
 *   Linux from Scratch (up to chapter 8)
 *   and more...
   
+![Progress 2 - limit testing cashe](https://github.com/Bate12/Grid-system-pygame/blob/main/progress2.png?raw=true)
 
-![Logo](https://github.com/Bate12/Grid-system-pygame/blob/main/icon.png?raw=true)
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, Javascript, React
