@@ -12,7 +12,7 @@ Also after my bachelor's degree I'm looking forward as a Junior Developer || pai
 ### 📁 Projects
 * **Raspberry PI 3B+** game console with controller prototype, with a **Python / Pygame game** as my final project in highschool
 * **Photo viewer** using Pygame with fascinating visuals creating own **GUI** in Pygame, see here > [Progress 3 - limit testing pre-v.0.1](https://youtu.be/AA_baFMNrfQ)
-#### School projects from highshool and collage 
+#### 📚 School projects from highshool and collage 
 *   C# .NET app
 *   React bank app
 *   Linux from Scratch (up to chapter 8)
