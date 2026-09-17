@@ -32,7 +32,7 @@ Also after my bachelor's degree I'm looking forward as a Junior Developer || pai
 * **Languages:** Python, Javascript, React
 * **Backend / Frameworks:** FastAPI
 * **Databases & Tools:** PostgreSQL, Git, Docker
-* **Currently learning** C++
+* **Currently learning** C++, ESP32 software/hardware
 
 ### 📈 Experience
 * **Freelance Software Developer** (1 year) – Worked on WordPress malware removal, a simple JS 2D game [kocka](https://dareor.cz/produkt/balonky-originalni-online-hra-jako-pozvanka-prani-vzkaz/)z and React Native Android/IOS App [Qrun.Guru](https://play.google.com/store/apps/details?id=fun.qrun.qrunguru&hl=en&pli=1) for a local tech company [stodat technologies s.r.o.](https://stodat.com/cs/)
