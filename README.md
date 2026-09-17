@@ -18,12 +18,14 @@ Also after my bachelor's degree I'm looking forward as a Junior Developer || pai
 *   Linux from Scratch (up to chapter 8)
 *   and more...
 
+  ![Progress 2 - limit testing cashe](https://github.com/Bate12/Grid-system-pygame/blob/main/progress2.png?raw=true)
+
 ### 📝 Upcomming Projects
 ## **Bachelor's thesis**
 *  **ESP32 Sauna digitalization** using heat sencor, Bluetooth speaker integration using **DAC I2C**, Posting information to **remote Web**
 *  **C# .NET Azure app** in a group of 2 as a collage project
   
-![Progress 2 - limit testing cashe](https://github.com/Bate12/Grid-system-pygame/blob/main/progress2.png?raw=true)
+
 
 
 ### 🛠️ Tech Stack & Tools
