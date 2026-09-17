@@ -1,9 +1,13 @@
 # Hi there, I'm Bate12! 👋
-![Logo](https://github.com/Bate12/Grid-system-pygame/blob/main/icon.png?raw=true)
+
 
 I am a 3rd-year Software Engineering student and a freelance developer (OSVČ) based in the Czech Republic. I enjoy building functional, clean, and efficient software.
 
-Currently and I'm looking for remote freelance projects, part-time gigs, or agency overflow work.
+Currently and I'm looking for remote freelance projects, part-time gigs, or agency overflow work as a student.
+
+Also after my bachelor's degree I'm looking forward as a Junior Developer || paid Intern || 
+
+![Logo](https://github.com/Bate12/Grid-system-pygame/blob/main/icon.png?raw=true)
 
 ### 📁 Projects
 * **Raspberry PI 3B+** game console with controller prototype, with a **Python / Pygame game** as my final project in highschool
@@ -13,6 +17,11 @@ Currently and I'm looking for remote freelance projects, part-time gigs, or agen
 *   React bank app
 *   Linux from Scratch (up to chapter 8)
 *   and more...
+
+### 📝 Upcomming Projects
+## **Bachelor's thesis**
+*  **ESP32 Sauna digitalization** using heat sencor, Bluetooth speaker integration using **DAC I2C**, Posting information to **remote Web**
+*  **C# .NET Azure app** in a group of 2 as a collage project
   
 ![Progress 2 - limit testing cashe](https://github.com/Bate12/Grid-system-pygame/blob/main/progress2.png?raw=true)
 
